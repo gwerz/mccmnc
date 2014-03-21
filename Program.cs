@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using com.IMSI.util;
 
 namespace MccMncTest
