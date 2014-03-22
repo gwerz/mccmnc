@@ -1,7 +1,9 @@
 mccmnc
 ======
 
-the MCC/MNC mapping table for C#.It's fork from [mcc-mnc]:https://github.com/westwin/mcc-mnc.
+the MCC/MNC mapping table for C#.It's fork from [mcc-mnc][].
+
+[mcc-mnc]:https://github.com/westwin/mcc-mnc
 
 1.mcc to 2-letter iso country code. 2. mcc/mnc tuple to carrier name
 
